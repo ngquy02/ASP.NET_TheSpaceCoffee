@@ -28,10 +28,13 @@ Các mục lớn của trang web
   ![image](https://user-images.githubusercontent.com/85392867/232526233-e5ad2790-d9f8-4b36-bea3-784732bdf614.png)
 
 ## Tài liệu tham khảo
-Microsoft: https://learn.microsoft.com/vi-vn/aspnet/core/tutorials/first-mvc-app/start-mvc
+W3Schools: https://www.w3schools.com
+
+Microsoft: https://learn.microsoft.com/vi-vn/docs
 
 ## Thành viên
-  
+Nhóm 04-CNTT5-K61
+
   * 201200025
   * 201200218
   * 201200181
