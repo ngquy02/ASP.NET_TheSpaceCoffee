@@ -26,6 +26,7 @@ namespace Web_TheSpaceCoffee.Controllers
         {
             int pageSize = 12;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
+
             if (target == "all")
             {
                 var listItem = db.TbSanPhams.AsNoTracking().OrderBy(x => x.MaSanPham).ToList();
