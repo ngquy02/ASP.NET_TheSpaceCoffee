@@ -4,7 +4,7 @@ Bài tập lớn môn Lập trình Web
 ## Mô tả
 Trang web quản lí cửa hàng và là bài tập lớn để đánh giá quá trình học tập của môn học.
 
-Trang web được xây dựng bằng công nghệ ASP.NET Core MVC và SQL Server của Microsoft.
+Trang web được xây dựng bằng ASP.NET Core Web App (MVC) phiên bản .NET Core 6 và SQL Server 2022 của Microsoft.
 
 Các mục lớn của trang web
   
